@@ -1,8 +1,8 @@
-import Staking from "./Staking";
+import ToDo from "./ToDo";
 
 function App(){
   return(
-    <Staking />
+    <ToDo />
   );
 }
 
